@@ -1,0 +1,9 @@
+번호,타입,문제,보기,정답
+1,2,사과 올려,Rup/Rdown/Lup/Ldown,3
+2,2,사과 내려,Rup/Rdown/Lup/Ldown,4
+3,2,배 올려,Rup/Rdown/Lup/Ldown,1
+4,2,배 내려,Rup/Rdown/Lup/Ldown,2
+5,2,사과 올리지말고 배 올려,Rup/Rdown/Lup/Ldown,1
+6,2,사과 내리지말고 배 올려,Rup/Rdown/Lup/Ldown,1
+7,2,배 올리지말고 사과 올려,Rup/Rdown/Lup/Ldown,3
+8,2,배 내리지말고 사과 올려,Rup/Rdown/Lup/Ldown,3
